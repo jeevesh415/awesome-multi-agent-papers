@@ -59,7 +59,7 @@
 
 ## Multi-Agent Collaboration & System Design
 - **[Thought Communication in Multiagent Collaboration](https://arxiv.org/pdf/2510.20733)**
-- **[MAS-Zero: Designing Multi-Agent Systems with Zero Supervision](https://mas-design.github.io/)**
+- **[MAS-Zero: Designing Multi-Agent Systems with Zero Supervision](https://arxiv.org/pdf/2505.14996)**
 - **[K-Level Reasoning with Large Language Models](https://arxiv.org/pdf/2402.01521)**
 - **[More Agents is All You Need](https://arxiv.org/pdf/2402.05120.pdf)**
 - **[LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration](https://arxiv.org/pdf/2402.11550)**
@@ -108,7 +108,13 @@
 - **[SkillOrchestra: Learning to Route Agents via Skill Transfer](https://huggingface.co/papers/2602.19672)**
 - **[Contextual Counterfactual Credit Assignment for Multi-Agent Reinforcement Learning in LLM Collaboration](https://arxiv.org/abs/2603.06859)** [GitHub](https://github.com/facebookresearch/Hyperagents)
 - **[CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery](https://huggingface.co/papers/2604.01658)**
-
+- **[TRINITY: An Evolved LLM Coordinator](https://arxiv.org/abs/2512.04695)**
+- **[Learning to Orchestrate Agents in Natural Language with the Conductor](https://arxiv.org/abs/2512.04388)**
+- **[From Skills to Talent: Organising Heterogeneous Agents as a Real-World Company](https://huggingface.co/papers/2604.22446)**
+- **[Can AI Agents Agree?](https://arxiv.org/abs/2603.01213)**
+- **[ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration](https://huggingface.co/papers/2605.03042)**
+- **[Beyond Individual Intelligence: Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems](https://huggingface.co/papers/2605.14892)**
+  
 ## Multi-Agent Frameworks & Benchmarks
 
 - **[MALLM: Multi-Agent Large Language Models Framework](https://arxiv.org/abs/2509.11656)**
@@ -361,6 +367,7 @@
 ## Training
 
 - **[Latent Collaboration in Multi-Agent Systems](https://arxiv.org/abs/2511.20639)**
+- **[Recursive Multi-Agent Systems](https://huggingface.co/papers/2604.25917)**
 
 ----
 
